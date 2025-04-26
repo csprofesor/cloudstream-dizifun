@@ -1,9 +1,0 @@
-{
-  "name": "DiziFun",
-  "description": "DiziFun2.com dizilerini CloudStream uygulamasında izlemek için eklenti.",
-  "version": 1,
-  "packageName": "com.dizifun",
-  "mainClass": "com.dizifun.DiziFun",
-  "author": "csprofesor",
-  "tvTypes": ["TvSeries"]
-}
